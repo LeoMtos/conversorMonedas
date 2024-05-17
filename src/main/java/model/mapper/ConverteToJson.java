@@ -16,7 +16,6 @@ public class ConverteToJson {
             throw new JsonConversionException("Error al convertir JSON a objeto DivisaDto");
         }
     }
-
     public DivisaDto getDivisaDto() {
         return divisaDto;
     }
