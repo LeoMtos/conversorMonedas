@@ -1,2 +1,4 @@
-package model.entity;public class DivisaEntity {
+package model.entity;
+
+public class DivisaEntity {
 }
